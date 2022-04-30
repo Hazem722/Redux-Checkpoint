@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# ToDo App (React + Redux)
 
+This is a simple todo application built with React and Redux
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## What I used:
+
+- configureStore()
+- createReducer()
+- createSlice()
+- useDispatch
+- useSelector
 
 ## Available Scripts
 
